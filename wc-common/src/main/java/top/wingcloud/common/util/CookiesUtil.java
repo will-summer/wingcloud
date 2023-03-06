@@ -18,7 +18,6 @@ public class CookiesUtil {
 
     /**
      * 根据名字获取cookie
-     *
      * @param request
      * @param name    cookie名字
      * @return
